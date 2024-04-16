@@ -1,0 +1,10 @@
+# Build cache
+build/
+build_openssl/
+openssl/
+openssl-1.1.1w/
+
+# Bin
+http_server
+https_server
+https_client
